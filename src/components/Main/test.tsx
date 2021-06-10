@@ -1,4 +1,3 @@
-/* eslint-disable import/no-unresolved */
 import { render, screen } from '@testing-library/react'
 
 import Main from '.'
